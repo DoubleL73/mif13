@@ -22,7 +22,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | TypeScript                    | SOW, DIALLO, VERA, MARIE MICHAEL RAJ  |   29/05          |       |
 | Web GL                        | NGUYEN, PHAM, NGUYEN, HUYNH           |   26/06          |       |
 | [Meteor](https://www.meteor.com)                        | PEULTIER, FONTAINE, PHAM              |   03/04          |[Diapo](https://docs.google.com/presentation/d/1OWK-K2rrSAeMlZMp_eipvFxwY2uFn0QP7g7msG_CHas)       |
-| A-Frame                       | JIMENEZ, LAFIOSCA    |   22/05          |       |
+| [A-Frame](https://aframe.io/)                       | JIMENEZ, LAFIOSCA    |   22/05          |[Diapo](https://doublel73.github.io/a-frame)       |
 | [Django](https://www.djangoproject.com/) | BOZON , BELZUNCE , RAMOS TUBINO, FRITSCH | 20/02 |[Diapo](https://docs.google.com/presentation/d/1IVOVZdvF68tM90u75pcHQZ1S_smxvVn2hLf4em7HXbA)    |
 | RequireJS                     | MOUSSA, LAM , LITIM                   |   19/06          |       |
 | CreateJS                      | ABDESSALEM, AIFA, CAN, DOUCOURE       |   26/06          |       |
